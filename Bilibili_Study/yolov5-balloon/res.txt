@@ -1,0 +1,1 @@
+[tensor(42.), tensor(1.), tensor(188.), tensor(69.)]
